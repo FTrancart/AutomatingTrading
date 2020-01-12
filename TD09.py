@@ -1,7 +1,7 @@
 import requests, json, sqlite3, urllib, hmac, hashlib, time
 
-API_KEY = 'wvjKIjep99fBUxwAgyx0Vc2MtWIBLsF1Org4enIHJF7jcUP5jmcrFJTUJfMkoBsL'
-API_SECRET = 'cG0lCLfxCUmTtooGY2DsQzxYxawAETMsmT4dmMSwVH5fEjEu6nPDkKcOlGq97hkH'
+API_KEY = ''
+API_SECRET = ''
 
 #see list of available asset pairs
 def getCurrencies():
